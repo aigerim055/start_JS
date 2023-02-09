@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Permanent Marker', cursive;
+}
+
+header {
+    background-color: grey;
+    padding: 25px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin: 10px 10px;
+    
+}
+
+.nav p{
+    display: inline;
+}
+
+.search {
+    border: none;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 15px;
+    font-size: 22px;
+}
+
+
+.material-symbols-outlined {
+    background-color: grey;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    color:black;
+}
+
+/* .logo {
+    text-align: center;
+}
+
+.logo img{
+    width: 40px;
+    text-align: center;
+} */
+
+.start {
+    background-image: url(../assets/jordan-tf-uproxx.webp);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+.desc {
+    text-align: center;
+}
+
+.desc p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* .backround2 {
+    background-image: url(../assets/img2.gif);
+    background-size: cover;
+    height: 80vh;
+    margin-top: 25px;
+} */
+
+img {
+    border-radius: 90px;
+    margin-bottom: 20px;
+    margin-left: 27px;
+    margin-top: 30px;
+}
+
+/* .sign-in {
+    background-color: grey;
+    margin-top: 20px;
+    height: 600px;
+}
+
+.sign-in input {
+    display: block;
+    font-size: 22px;
+} */
+
+.just {
+    margin-top: 20px;
+    padding-top: 25px;
+    text-align: center;
+    /* background-color: grey; */
+    background-image: url(../assets/img2.gif);
+    background-size: cover;
+    height: 500px;
+    font-size: 40px;
+}
+/* 
+.description h4{
+    display: inline;
+    margin-left: 150px;
+} */
+
+.join {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.join h1 {
+    letter-spacing: 7px;
+}
+
+.join button {
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.join button:hover {
+    background-color: orangered;
+    color: black;
+    transition: 0.7s;
+}
+
+footer {
+    padding-top: 20px;
+    margin-top: 40px;
+    background-color: black;
+    height: 100px;
+    color: white;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+footer img {
+    height: 30px;
+}
