@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oxygen', sans-serif;
+}
+
+img{
+    width: 100px;
+    border-radius: 100px;
+}
+
+.img {
+    float: left;
+}
+
+.title {
+    margin-left: 120px;
+    padding-top: 30px;
+}
+
+main {
+    margin-left: 30px;
+    margin-top: 100px;
+
+}
+
+.desc {
+    width: 270px;
+}
+
+p {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.rating {
+    margin-top: 15px;
+}
+
+
+.rating img {
+    width: 23px;
+}

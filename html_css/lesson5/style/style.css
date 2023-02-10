@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gentium Book Plus', serif;
+}
+
+header {
+    background-image: url(../assets/image1.png);
+    /* background-size: cover; */
+    background-color: black;
+    height: 100vh;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.header img{
+    width: 250px;
+    text-align: center;
+}
+
+.nav-desc {
+    margin-top: 70px;
+    width: 600px;
+    /* margin-left: 350px; */
+    margin: 0px auto;
+}
+
+.email-placeholder {
+    margin-top: 70px;
+    /* font-size: 40px; */
+    /* margin: 0;
+    padding: 0; */
+}
+
+.email-placeholder input {
+    font-size: 30px;
+    /* border-radius: 10px; */
+    border: none;
+    padding: 10px;
+}
+
+.email-placeholder button {
+    font-size: 30px;
+    /* border-radius: 10px; */
+    /* border: grey solid 1 px; */
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+
+.email-placeholder svg{
+    color: white;
+}
+
+main {
+    background-color: black;
+    color: white;
+    
+}
+
+main img {
+    display: inline;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    /* height: 200px; */
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+/* .desc-img {
+    float: left;
+} */
+
+section {
+    padding-top: 40px;
+}
+
+.desc {
+    margin-top: 70px;
+    float: right;
+    text-align: center;
+    margin-right: 200px;
+}
+
+.desc2 {
+    background-image: url(../assets/wednesday-netflix-series-2k-wallpaper-uhdpaper.webp);
+    height: 100vh;
+    background-size: cover;
+}
+
+.info {
+    padding-top: 200px;
+    padding-left: 60px;
+    text-align: center;
+    width: 500px;
+}
