@@ -9,7 +9,7 @@
 
 .header a{
     text-decoration: none;
-    font-family: 'Rubik';
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -18,40 +18,41 @@
 }
 
 .logo {
-    font-family: 'Rubik';
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 1000;
     font-size: 18px;
     line-height: 43px;
     margin: 47px;
-    /* margin-left: 230px; */
 }
 
+.header-container {
+    max-width: 1480px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
 
 .nav {
     margin: 57px;
     width: 365px;
     height: 19px;
-    margin-left: 600px;
+    margin-left: 700px;
 }
 
 .nav a {
     text-decoration: none;
     color: #333333;
-    font-family: 'Oxygen';
+    font-family: 'Oxygen', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    /* line-height: 120%; */
-
-    padding-left: 23px;
- 
+    line-height: 120%;
+    padding-left: 10px; 
 }
 
 .menu {
     margin-top: 54px;
-    margin-left: 15px;
-    /* margin-right: 102px; */
+    margin-right: 65px;
 }
 
 .container {
@@ -65,33 +66,24 @@
 }
 
 .desc a {
-    font-family: 'Rubik';
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
-    line-height: 170%;
-    
+    line-height: 170%; 
     text-decoration-line: underline;
     padding-top: 28px;
     color: #000000;
-
     margin-left: 72px;
-
 }
 
 .title {
     width: 500px;
     height: 203px;
-    
-
-
-    
-
-
 }
 
 .title h1 {
-    font-family: 'Oxygen';
+    font-family: 'Oxygen', sans-serif;
     font-style: normal;
     font-weight: 700px;
     font-size: 68px;
@@ -101,48 +93,32 @@
 }
 
 .desc p {
-    font-family: 'Rubik';
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 170%;
-    height: 119px;
-    width: 499px;
-
+    height: 150px;
+    width: 450px;
     margin-left: 72px;
 }
 
 .second-block {
     margin-top: 121.48px;
     display: flex;
-    /* margin-right: 338px; */
 }
-
-/* .about-us {
-    width: 700px;
-}
-
-
-
-.awards {
-    width: 700px;
-
-} */
 
 .second-block div {
     width: 380px;
 }
 
-
 .second-block p {
-    font-family: 'Oxygen';
+    font-family: 'Oxygen', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 17px;
     line-height: 170%;
 }
-
-
 
 .mission {
 
@@ -154,21 +130,15 @@
 .second-block h3 {
     margin-top: 15.09px;
     margin-bottom: 11px;
-
-    font-family: 'Oxygen';
+    font-family: 'Oxygen', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
     line-height: 170%;
-
-
-    
 }
 
 
 .section {
-    /* max-width: 1475px; */
-    /* margin: 0 auto; */
     background-color: #EBD7CC;
     margin-top: 148px;
 }
@@ -184,32 +154,25 @@
 }
 
 .block2 h2 {
-    font-family: 'Oxygen';
     font-style: normal;
     font-weight: 700;
     font-size: 64px;
     line-height: 100%;
-    /* or 64px */
-
-
     color: #1A1A1A;
-
-
     margin-left: 150px;
     width: 891px;
     height: 140px;
+    font-family: 'Oxygen', sans-serif;
 }
 
 .block2 p {
     width: 600px;
     height: 58px;
-
-    font-family: 'Rubik';
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 170%;
-
     margin-left: 300px;
     margin-top: 27px;
 }
