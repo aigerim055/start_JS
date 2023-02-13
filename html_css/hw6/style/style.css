@@ -1,0 +1,241 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+}
+
+.header a{
+    text-decoration: none;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 43px;
+    color: #111111;
+}
+
+.logo {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 43px;
+    margin: 47px;
+    /* margin-left: 230px; */
+}
+
+
+.nav {
+    margin: 57px;
+    width: 365px;
+    height: 19px;
+    margin-left: 600px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #333333;
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    /* line-height: 120%; */
+
+    padding-left: 23px;
+ 
+}
+
+.menu {
+    margin-top: 54px;
+    margin-left: 15px;
+    /* margin-right: 102px; */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.first-block {
+    display: flex;
+    margin-top: 156px;
+}
+
+.desc a {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 170%;
+    
+    text-decoration-line: underline;
+    padding-top: 28px;
+    color: #000000;
+
+    margin-left: 72px;
+
+}
+
+.title {
+    width: 500px;
+    height: 203px;
+    
+
+
+    
+
+
+}
+
+.title h1 {
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 68px;
+    line-height: 86px;
+
+    color: #000000;
+}
+
+.desc p {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 170%;
+    height: 119px;
+    width: 499px;
+
+    margin-left: 72px;
+}
+
+.second-block {
+    margin-top: 121.48px;
+    display: flex;
+    /* margin-right: 338px; */
+}
+
+/* .about-us {
+    width: 700px;
+}
+
+
+
+.awards {
+    width: 700px;
+
+} */
+
+.second-block div {
+    width: 380px;
+}
+
+
+.second-block p {
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 170%;
+}
+
+
+
+.mission {
+
+    margin-left: 57px;
+    margin-right: 47px;
+
+}
+
+.second-block h3 {
+    margin-top: 15.09px;
+    margin-bottom: 11px;
+
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 170%;
+
+
+    
+}
+
+
+.section {
+    /* max-width: 1475px; */
+    /* margin: 0 auto; */
+    background-color: #EBD7CC;
+    margin-top: 148px;
+}
+
+.about-us {
+    margin-left: 10px;
+}
+
+.block2 {
+    padding-top: 148px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.block2 h2 {
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    /* or 64px */
+
+
+    color: #1A1A1A;
+
+
+    margin-left: 150px;
+    width: 891px;
+    height: 140px;
+}
+
+.block2 p {
+    width: 600px;
+    height: 58px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 170%;
+
+    margin-left: 300px;
+    margin-top: 27px;
+}
+
+.block2 button {
+    width: 166px;
+    height: 66px;
+    border-radius: 50px;
+    background: #3D67FF;
+
+    margin-top: 29px;
+    border: none;
+
+    text-transform: uppercase;
+    color: white;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 27px;
+    margin-bottom: 50px;
+}
+
+
+.block2 img {
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+
+}
